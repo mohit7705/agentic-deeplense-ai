@@ -114,7 +114,8 @@ Generate 2 vortex images
         "model_description": "Basic lensing model"
     }
 }
-📊 Notebook Demonstration
+
+### 📊 Notebook Demonstration
 
 The notebook.ipynb file demonstrates:
 
