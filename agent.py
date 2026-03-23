@@ -33,7 +33,7 @@ def run_agent(user_input: str):
 
         print("[Agent] Simulation completed.\n")
 
-        return json.dumps(result.model_dump(), indent=4)
+        return result.model_dump()
 
     except Exception as e:
         return json.dumps({
