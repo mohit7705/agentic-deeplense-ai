@@ -93,9 +93,10 @@ Generate 2 vortex images
 
 ### Interaction:
 
-[Agent] What resolution do you want? (e.g., 64, 128): 128
-[Agent] What redshift value should be used? (e.g., 0.5): 0.8
+[Agent] What resolution do you want? (e.g., 64, 128): 128  
+[Agent] What redshift value should be used? (e.g., 0.5): 0.8  
 [Agent] Which model do you want? (Model_I / Model_II): Model_I
+
 
 
 ### Output:
